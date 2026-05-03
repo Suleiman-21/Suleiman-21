@@ -12,10 +12,10 @@ I'm a ✨ CS Graduate from BITS Pilani Dubai ✨ , where i have deepened my know
 
 
 ## 🛠️ Skills
-**Programming Languages:** Python, SQL
-**Data Analytics & Business Intelligence:** Power BI, Excel (Pivot Tables, VLOOKUP), Pandas, Jupyter Notebook, Trend Analysis
-**Project & Operations Tools:** Jira, Trello, Asana, SAP (familiar)
-**Soft Skills:** B2B Sales, Client Relationship Management, Cross-Functional Coordination, Negotiation, Multi-Workstream Management
+- **Programming Languages:** Python, SQL
+- **Data Analytics & Business Intelligence:** Power BI, Excel (Pivot Tables, VLOOKUP), Pandas, Jupyter Notebook, Trend Analysis
+- **Project & Operations Tools:** Jira, Trello, Asana, SAP (familiar)
+- **Soft Skills:** B2B Sales, Client Relationship Management, Cross-Functional Coordination, Negotiation, Multi-Workstream Management
 
 
 ## 📫 How to Reach Me
